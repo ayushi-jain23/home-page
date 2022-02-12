@@ -1,0 +1,282 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* div 1 */
+body .home-page .pink-bg{
+    background-image: url("https://uploads-ssl.webflow.com/5e58c8dd1c2c937dfad1ea50/5e773b8bbc6262f40e88859a_home-hero.jpg");
+    width: 100%;
+    background-size: 49.25%;
+    background-repeat: no-repeat;
+}
+body .home-page .pink-bg .nav-tab{
+    text-align: right;
+}
+body .home-page .pink-bg .nav-tab a{
+    font-size: 12px;
+    text-decoration: none;
+    color: #6b6b6b;
+    letter-spacing: 2px;
+    font-family: Arial,sans-serif;
+    vertical-align: 45px;
+    padding: 2% 0 0 1.5%;
+}
+body .home-page .pink-bg .nav-tab img{
+    width: 4.9%;
+    padding: 0 3% 0 2%;
+}
+body .home-page .pink-bg .video{
+    float: right;
+    width: 60%;
+    height: 618px;
+}
+body .home-page .pink-bg .pink{
+    font-family: 'Work Sans',sans-serif;
+    color: #fff;
+    width: 22%;
+    padding: 12% 0 16.6% 3%;
+}
+body .home-page .pink-bg .pink .ux-design{
+    font-size: 27px;
+    line-height: 37px;
+    margin-bottom: 5%;
+}
+body .home-page .pink-bg .pink .we{
+    font-size: 15px;
+    line-height: 30px;
+}
+
+
+/* div 2 */
+body .home-page .lower{
+    font-family: 'Miriam Libre',sans-serif;
+    color: #000;
+    font-size: 31px;
+    line-height: 36px;
+    font-weight: 400;
+    width: 80%;
+    margin: 10% auto 0 auto;
+}
+
+
+/* div 3 */
+body .home-page .xcm-text1{
+    margin: 6.8% 10% 0 10%;
+}
+body .home-page .xcm-text1 .xcm{
+    float: right;
+    width: 70%;
+}
+body .home-page .xcm-text1 .text-1{
+    width: 22%;
+    padding-top: 14.5%;
+}
+
+
+/* div 4 */
+body .home-page .mobile-text{
+    margin: 22.4% 26% 0 26%;
+}
+body .home-page .mobile-text .text-2{
+    width: 38%;
+    padding-top: 8.5%;
+    float: right;
+    margin-right: 16%;
+}
+
+
+/* div 5 */
+body .home-page .tablet-text{
+    margin: 9.8% 27.5% 13.6% 27.5%;
+}
+body .home-page .tablet-text .text-3{
+    width: 38%;
+    float: left;
+    margin-right: 19%;
+}
+body .home-page .tablet-text .tablet{
+    padding-top: 7%;
+}
+
+
+/* div 3, 4, 5 */
+body .home-page .case {
+    color: #a8a8a8;
+    font-size: 11px;
+    letter-spacing: 2px;
+    padding-bottom: 10%;
+}
+body .home-page .ui{
+    font-family: 'Miriam Libre',sans-serif;
+    color: #ed2759;
+    font-size: 30px;
+    line-height: 34px;
+    font-weight: 400;
+    padding-bottom: 8%;
+}
+body .home-page .long{
+    color: #b4b4b4;
+    font-family: 'Work Sans',sans-serif;
+    font-size: 13px;
+    line-height: 26px;
+}
+
+
+/* div 6 */
+body .home-page .user-its{
+    margin: auto;
+    width: 64%;
+}
+body .home-page .user-its .user {
+    font-family: 'Miriam Libre', sans-serif;
+    font-size: 63px;
+    width: 81%;
+    line-height: 121%;
+    letter-spacing: 0.5px;
+}
+body .home-page .user-its .its{
+    font-family: 'Miriam Libre',sans-serif;
+    color: #f22855;
+    font-size: 24px;
+    letter-spacing: 5px;
+    padding-top: 2.5%;
+}
+body .home-page .user-its .check{
+    width: 37%;
+    line-height: 29px;
+    letter-spacing: 3px;
+    font-family: 'Work Sans',sans-serif;
+    color: #6b6b6b;
+    font-size: 12px;
+    margin-top: 2.3%;
+}
+
+
+/* div 7 */
+body .home-page .pink-bg-text{
+    background-image: url("https://uploads-ssl.webflow.com/5e58c8dd1c2c937dfad1ea50/5e5e1667afa1fe39e8103684_Path%2011.png");
+    background-repeat: no-repeat;
+    margin-top: 5.5%;
+    background-size: 97%;
+
+    padding: 100px;
+}
+
+
+/* div 8 */
+body .home-page .feedback{
+    width: 50%;
+    margin: auto;
+}
+body .home-page .reviews{
+    text-align: center;
+}
+body .home-page .feedback .reviews img{
+    width: 14%;
+}
+body .home-page .feedback .review-text{
+    font-family: 'Work Sans',sans-serif;
+    color: #6b6b6b;
+    font-size: 16px;
+    text-align: center;
+    line-height: 38px;
+    margin: 7% 0 3.5% 0;
+}
+body .home-page .feedback .author{
+    font-family: 'Work Sans',sans-serif;
+    color: #6b6b6b;
+    font-size: 14px;
+    text-align: center;
+    line-height: 25px;
+    margin-bottom: 22.5%;
+}
+body .home-page .feedback .author img{
+    vertical-align: -5px;
+}
+
+
+/* div 9 */
+
+
+/* div 10 */
+
+
+/* div 11 */
+body .home-page .video-part{
+    position: relative
+}
+body .home-page .video-part .video{
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+body .home-page .video-part .uxd-helps{
+    position: absolute;
+    color: #e9e9e9;
+    font-family: 'Miriam Libre',sans-serif;
+    font-size: 32px;
+    line-height: 46px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0 15.9%;
+    top: 80px;
+}
+body .home-page .video-part .box{
+    background-color: white;
+    position: absolute;
+    top: 344px;
+    text-align: center;
+    width: 46%;
+    margin-left: 26%;
+}
+body .home-page .video-part .box .lets{
+    font-size: 50px;
+    font-family: 'Miriam Libre',sans-serif;
+    padding-top: 13.5%;
+}
+body .home-page .video-part .box .hire{
+    color: #000;
+    font-size: 12px;
+    font-family: 'Work Sans',sans-serif;
+    padding-top: -30px;
+}
+body .home-page .video-part .box button{
+    position: absolute;
+    background-color: #f22855;
+    border-radius: 40px;
+    padding: 2.5% 8%;
+    margin: 4% 0 0 21%;
+}
+body .home-page .video-part .box img{
+    margin-top: 4%;
+}
+
+
+/* div 12 */
+body .home-page .footer-nav{
+    font-family: 'Work Sans',sans-serif;
+    text-align: center;
+    margin: 22% 0 11% 0;
+}
+body .home-page .footer-nav .line2{
+    margin-top: 1.4%;
+}
+body .home-page .footer-nav a{
+    text-decoration: none;
+    color: #b4b4b4;
+    font-size: 14px;
+    font-family: 'Work Sans',sans-serif;
+    margin: 1%;
+}
+
+
+/* div 13 */
+body .home-page .copyright{
+    text-align: center;
+    color: #b4b4b4;
+    font-family: 'Work Sans',sans-serif;
+    font-size: 10px;
+    margin-bottom: 5px;
+}
